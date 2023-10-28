@@ -13,7 +13,6 @@ Spark | spark-1.10.53-fabric.jar
 Sodium | sodium-fabric-mc1.20-0.4.10+build.27.jar
 CC-Tweaked | cc-tweaked-1.20.1-fabric-1.108.3.jar
 Iris | iris-mc1.20-1.6.4.jar
-When Dungeons Arise | DungeonsArise-1.20.1-2.1.57-fabric-release.jar
 Supplementaries | supplementaries-1.20-2.6.17-fabric.jar
 Adorn | Adorn-5.0.0+1.20.1-fabric.jar
 Indium | indium-1.0.21+mc1.20.1.jar
