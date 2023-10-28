@@ -12,7 +12,7 @@ ModernFix
 Spark
 Sodium
 Fastload
-CC:Tweaked
+CC: Tweaked
 Iris
 When Dungeons Arise
 Supplementaries
