@@ -11,13 +11,13 @@ FerriteCore | ferritecore-6.0.1-fabric.jar
 ModernFix | modernfix-fabric-5.8.1+mc1.20.1.jar
 Spark | spark-1.10.53-fabric.jar
 Sodium | sodium-fabric-mc1.20-0.4.10+build.27.jar
-Fastload | Fastload+1.18.2-1.20-3.4.0.jar
 CC-Tweaked | cc-tweaked-1.20.1-fabric-1.108.3.jar
-Iris | iris-mc1.20.1-1.6.10.jar
+Iris | iris-mc1.20-1.6.4.jar
 When Dungeons Arise | DungeonsArise-1.20.1-2.1.57-fabric-release.jar
 Supplementaries | supplementaries-1.20-2.6.17-fabric.jar
 Adorn | Adorn-5.0.0+1.20.1-fabric.jar
-Indium
+Indium | indium-1.0.21+mc1.20.1.jar
+
 
 https://mediafilez.forgecdn.net/files/4594/969/offlineskins-1.20.1-v1a-fabric.jar | offlineskins-1.20.1-v1a-fabric.jar
 https://mediafilez.forgecdn.net/files/4745/380/SimpleLogin-1.20.1-1.0.2-all.jar | SimpleLogin-1.20.1-1.0.2-all.jar
