@@ -17,6 +17,7 @@ Iris | iris-mc1.20.1-1.6.10.jar
 When Dungeons Arise | DungeonsArise-1.20.1-2.1.57-fabric-release.jar
 Supplementaries | supplementaries-1.20-2.6.17-fabric.jar
 Adorn | Adorn-5.0.0+1.20.1-fabric.jar
+Indium
 
 https://mediafilez.forgecdn.net/files/4594/969/offlineskins-1.20.1-v1a-fabric.jar | offlineskins-1.20.1-v1a-fabric.jar
 https://mediafilez.forgecdn.net/files/4745/380/SimpleLogin-1.20.1-1.0.2-all.jar | SimpleLogin-1.20.1-1.0.2-all.jar
