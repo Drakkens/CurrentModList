@@ -4,8 +4,8 @@ waystones | waystones-fabric-1.20-14.0.2.jar
 create | create-fabric-0.5.1-d-build.1161+mc1.20.1.jar
 carpet | fabric-carpet-1.20-1.4.112+v230608.jar
 jade
-offline skins
 
+https://mediafilez.forgecdn.net/files/4594/969/offlineskins-1.20.1-v1a-fabric.jar | offlineskins-1.20.1-v1a-fabric.jar
 https://mediafilez.forgecdn.net/files/4745/380/SimpleLogin-1.20.1-1.0.2-all.jar | SimpleLogin-1.20.1-1.0.2-all.jar
 https://mediafilez.forgecdn.net/files/4593/82/minihud-fabric-1.20.1-0.27.0.jar | minihud-fabric-1.20.1-0.27.0.jar 
 https://mediafilez.forgecdn.net/files/4623/488/tweakeroo-fabric-1.20.1-0.17.1.jar | tweakeroo-fabric-1.20.1-0.17.1.jar
