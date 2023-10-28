@@ -10,7 +10,7 @@ Concurrent Chunk Management Engine | c2me-fabric-mc1.20.1-0.2.0+alpha.11.0.jar
 FerriteCore | ferritecore-6.0.1-fabric.jar
 ModernFix | modernfix-fabric-5.8.1+mc1.20.1.jar
 Spark | spark-1.10.53-fabric.jar
-Sodium | sodium-fabric-mc1.20.1-0.5.3.jar
+Sodium | sodium-fabric-mc1.20-0.4.10+build.27.jar
 Fastload | Fastload+1.18.2-1.20-3.4.0.jar
 CC-Tweaked | cc-tweaked-1.20.1-fabric-1.108.3.jar
 Iris | iris-mc1.20.1-1.6.10.jar
