@@ -4,6 +4,7 @@ waystones | waystones-fabric-1.20-14.0.2.jar
 create | create-fabric-0.5.1-d-build.1161+mc1.20.1.jar
 carpet | fabric-carpet-1.20-1.4.112+v230608.jar
 jade
+easyauth | easyauth-mc1.20-3.0.19.jar
 
 https://mediafilez.forgecdn.net/files/4594/969/offlineskins-1.20.1-v1a-fabric.jar | offlineskins-1.20.1-v1a-fabric.jar
 https://mediafilez.forgecdn.net/files/4745/380/SimpleLogin-1.20.1-1.0.2-all.jar | SimpleLogin-1.20.1-1.0.2-all.jar
