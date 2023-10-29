@@ -16,7 +16,7 @@ Iris | iris-mc1.20-1.6.4.jar
 Supplementaries | supplementaries-1.20-2.6.17-fabric.jar
 Adorn | Adorn-5.0.0+1.20.1-fabric.jar
 Indium | indium-1.0.21+mc1.20.1.jar
-
+fabric api | fabric-api-0.88.1+1.20.1.jar
 
 https://mediafilez.forgecdn.net/files/4594/969/offlineskins-1.20.1-v1a-fabric.jar | offlineskins-1.20.1-v1a-fabric.jar
 https://mediafilez.forgecdn.net/files/4745/380/SimpleLogin-1.20.1-1.0.2-all.jar | SimpleLogin-1.20.1-1.0.2-all.jar
