@@ -26,6 +26,5 @@ Stuff Ain't Cheap|stuffaintcheap-1.20.1-1.0.2.jar
 SuperMartijn642's Config Lib|supermartijn642configlib-1.1.8-forge-mc1.20.jar
 SuperMartijn642's Core Lib|supermartijn642corelib-1.1.16-forge-mc1.20.1.jar
 JourneyMap|journeymap-1.20.1-5.9.18-forge.jar
-
 https://mediafilez.forgecdn.net/files/4745/380/SimpleLogin-1.20.1-1.0.2-all.jar|SimpleLogin-1.20.1-1.0.2-all.jar
 https://mediafilez.forgecdn.net/files/4592/954/offlineskins-1.20.1-v1.jar|offlineskins-1.20.1-v1.jar
