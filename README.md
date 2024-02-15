@@ -36,3 +36,4 @@ Curtain|curtain-mc1.20.1-1.3.2.jar
 https://mediafilez.forgecdn.net/files/4745/380/SimpleLogin-1.20.1-1.0.2-all.jar|SimpleLogin-1.20.1-1.0.2-all.jar
 https://mediafilez.forgecdn.net/files/4592/954/offlineskins-1.20.1-v1.jar|offlineskins-1.20.1-v1.jar
 https://mediafilez.forgecdn.net/files/5062/593/betterchunkloading-1.20.1-3.3.jar|betterchunkloading-1.20.1-3.3.jar
+https://mediafilez.forgecdn.net/files/5063/785/cupboard-1.20.1-2.3.jar|cupboard-1.20.1-2.3.jar
