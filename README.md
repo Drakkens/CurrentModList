@@ -28,5 +28,7 @@ SuperMartijn642's Core Lib|supermartijn642corelib-1.1.16-forge-mc1.20.1.jar
 JourneyMap|journeymap-1.20.1-5.9.18-forge.jar
 ElevatorMod|elevatorid-1.20.1-1.9.1.jar
 Iron Chests|ironchest-1.20.1-14.4.4.jar
+Canary|canary-mc1.20.1-0.3.3.jar
+Saturn|saturn-mc1.20.1-0.1.3.jar
 https://mediafilez.forgecdn.net/files/4745/380/SimpleLogin-1.20.1-1.0.2-all.jar|SimpleLogin-1.20.1-1.0.2-all.jar
 https://mediafilez.forgecdn.net/files/4592/954/offlineskins-1.20.1-v1.jar|offlineskins-1.20.1-v1.jar
